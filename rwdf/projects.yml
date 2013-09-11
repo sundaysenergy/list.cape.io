@@ -1,0 +1,7 @@
+title : Deutsch Foundation project feed
+id_prop : name
+data_prop : false
+load_item : true
+template_url : https://raw.github.com/bjornmeansbear/rwdfruhoh.ookb.co/master/_cape/projects.mustache
+data_url : http://rwdfruhoh.ookb.co.static.supersimple.co/_github_refresh/bjornmeansbear/whatwedo
+list_type : added
